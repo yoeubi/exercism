@@ -1,3 +1,4 @@
+// 사실 영어를 이해를 못해서 테스트만 통과하게 만듬
 class SpaceAge {
   constructor(time) {
     this.seconds = time;
